@@ -67,6 +67,7 @@ console.log (numbers);
 
 
 abcd
+1234
 
 
 
